@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+
+/* custom property */
+:root {
+    --color-black: #000000;
+    --color-highlight: #e95a08;
+    --font-default: #00000050;
+    --bg: #67abea20;
+}
+
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+.noto-serif-bold {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.inter-bold {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.inter-medium {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.inter-regular {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.highlight {
+    color: var(--color-highlight);
+}
+
+
+/* shared style class */
+.hidden {
+    display: none;
+}
+
+.border {
+    border: 1px solid #000000;
+}
+
+.flex {
+    display: flex;
+}
+
+.just-between {
+    justify-content: space-between;
+}
+
+.just-evenly {
+    justify-content: space-evenly;
+}
+
+.just-around {
+    justify-content: space-around;
+}
+
+.just-end {
+    justify-content: end;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.center-x {
+    justify-content: center;
+}
+
+.center-y {
+    align-content: center;
+}
+
+.center-y-a {
+    align-items: center;
+}
+
+.m-center {
+    margin: 0 auto;
+}
+
+.m-upper {
+    margin-top: 7.5rem;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+/* button style */
+
+
+
+
+/* CSS starts from here */
+
+body {
+    background-color: var(--bg);
+}
+
+/* navbar */
+.navbar {
+    margin-top: 2rem;
+}
+
+.nav-image {
+    width: 135px;
+}
+
+.menu-tags {
+    gap: 4rem;
+
+    font-size: 1.5rem;
+}
+
+.menu-tags li {
+    list-style: none;
+}
+.menu-tags li a {
+    text-decoration: none;
+    color: var(--font-black);
+}
+/* navbar end */
+
+/* banner */
+.banner-content {
+    /* align-content: baseline; */
+    margin-top: auto;
+    width: 50%;
+}
+
+.banner-title {
+    font-size: 5.5rem;
+    color: var(--color-black);
+}
+
+.banner-subtitle {
+    font-size: 1.5rem;
+    color: var(--font-default);
+}
+
+.banner-image {
+    width: 50%;
+}
