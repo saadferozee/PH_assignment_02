@@ -10,7 +10,7 @@
 
 ## ✅ Main Requirements (50 Marks)
 
-### 1. Navbar
+### 1. Navbar (Completed without Responsiveness)
 
 - **Logo/Website name** on the left
 - **Menu items** on the right with **cart icon**
@@ -21,7 +21,7 @@
 
 ---
 
-### 2. Banner
+### 2. Banner (Completed without Responsiveness)
 
 - **Image** on the right
 - **Title and paragraph** on the left
@@ -32,16 +32,16 @@
 
 ---
 
-### 3. Plants Section
+### 3. Plants Section (Completed without Responsiveness)
 
 - centered **Title and subtitle** as Figma
-- **8 cards with 4 Collumn View** with image, name, price, and Add to cart button
+- **8 cards with 4 Column View** with image, name, price, and Add to cart button
 - **Mobile Responsiveness:**
-  - Display Cards in 2 Collumn
+  - Display Cards in 2 Column
 
 ---
 
-### 4. Plants Lover Section
+### 4. Plants Lover Section (Completed without Responsiveness)
 
 - **Image** on the left
 - **Title and unordered list** on the right as Figma
@@ -99,7 +99,7 @@
 ## ⚙️ Technology Stack
 
 - HTML
-- CSS (Vanilla/ Talwind CSS only)
+- CSS (Vanilla/ Tailwind CSS only)
 - ⚠️ **No libraries (e.g., DaisyUI, Flowbite) allowed.**
 
 ---

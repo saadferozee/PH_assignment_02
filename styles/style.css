@@ -225,3 +225,50 @@ body {
     font-size: 1rem;
 }
 /* plants section end */
+
+
+/* lover section */
+.lover-container {
+    gap: 160px;
+    margin-top: 200px;
+}
+
+.badge {
+    width: 17.875rem;
+    height: 17.875rem;
+    margin-top: -100px;
+    margin-left: -105px;
+}
+
+.lover-paragraph-box {
+    width: 55%;
+}
+
+.lover-paragraph-box h1 {
+    margin-bottom: 1.5rem;
+    font-size: 3.125rem;
+    color: var(--color-black);
+}
+
+.lover-paragraph-box ul li {
+    margin-left: 2rem;
+    margin-bottom: 1.25rem;
+    font-size: 1.5rem;
+    color: var(--font-default);
+}
+/* lover section end */
+
+
+/* deals section */
+
+/* deals section end */
+
+
+/* join section */
+
+/* join section end */
+
+
+/* footer section */
+
+/* footer section end */
