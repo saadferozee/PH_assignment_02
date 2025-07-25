@@ -52,7 +52,7 @@
 
 ---
 
-### 5. Join Section
+### 5. Join Section (Completed without Responsiveness)
 
 - centered **Join the colorful Bunch** message
 - **Background image** in the full section like Figma

@@ -155,6 +155,7 @@ body {
     text-decoration: none;
     color: var(--font-black);
 }
+
 /* navbar end */
 
 
@@ -227,6 +228,7 @@ body {
     color: white;
     font-size: 1rem;
 }
+
 /* plants section end */
 
 
@@ -239,8 +241,8 @@ body {
 .badge {
     width: 17.875rem;
     height: 17.875rem;
-    margin-top: -100px;
-    margin-left: -105px;
+    margin-top: -7.9375rem;
+    margin-left: -9.9375rem;
 }
 
 .lover-paragraph-box {
@@ -259,6 +261,7 @@ body {
     font-size: 1.5rem;
     color: var(--font-default);
 }
+
 /* lover section end */
 
 
@@ -318,10 +321,44 @@ body {
 #flower-frame-3 a {
     font-size: 1.75rem;
 }
+
 /* deals section end */
 
 
 /* join section */
+.join {
+    padding: 12.5rem 20rem;
+
+    background-image: url(../assets/images/news-letter-bg.png);
+}
+
+.join-now-title {
+    margin-bottom: 1rem;
+
+    font-size: 3.125rem;
+    color: white;
+}
+
+.join-now-form input[type="email"] {
+    width: 80%;
+    padding: 1.25rem;
+    border: none;
+
+    font-size: 1.2rem;
+    color: var(--font-default);
+}
+
+.join-now-form input[type="button"] {
+    width: 20%;
+    padding: 1.25rem;
+    border: none;
+    background-color: var(--color-highlight);
+
+    font-size: 1.2rem;
+    color: white;
+
+    cursor: pointer;
+}
 
 /* join section end */
 
