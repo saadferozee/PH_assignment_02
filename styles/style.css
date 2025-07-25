@@ -22,10 +22,10 @@ img {
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
 .noto-serif-bold {
-  font-family: "Noto Serif", serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .inter-bold {
@@ -34,6 +34,7 @@ img {
     font-style: normal;
 
 }
+
 .inter-semibold {
     font-family: "Inter", sans-serif;
     font-weight: 600;
@@ -122,8 +123,6 @@ img {
     width: 80%;
 }
 
-/* button style */
-
 
 
 /* CSS styling starts from here */
@@ -131,6 +130,7 @@ img {
 body {
     background-color: var(--bg);
 }
+
 
 /* navbar */
 .navbar {
@@ -150,11 +150,13 @@ body {
 .menu-tags li {
     list-style: none;
 }
+
 .menu-tags li a {
     text-decoration: none;
     color: var(--font-black);
 }
 /* navbar end */
+
 
 /* banner */
 .banner-content {
@@ -176,6 +178,7 @@ body {
 .banner-image {
     width: 50%;
 }
+
 /* banner end */
 
 
@@ -260,7 +263,61 @@ body {
 
 
 /* deals section */
+.flower-frames {
+    margin-top: 6rem;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: repeat(2, 12.5rem);
+    gap: 1.75rem;
 
+    grid-template-areas:
+        "frame-1 frame-3 frame-3"
+        "frame-2 frame-3 frame-3"
+    ;
+}
+
+.flower-frame {
+    padding: auto auto;
+    border-radius: 1rem;
+}
+
+.flower-frame h3 {
+    font-size: 1.25rem;
+    color: white;
+}
+
+.flower-frame a {
+    font-size: 1rem;
+    color: white;
+}
+
+#flower-frame-1 {
+    background-image: url(../assets/images/deal-bloom.png);
+    background-size: cover;
+
+    grid-area: frame-1;
+}
+
+#flower-frame-2 {
+    background-image: url(../assets/images/deal-ana.png);
+    background-size: cover;
+
+    grid-area: frame-2;
+}
+
+#flower-frame-3 {
+    background-image: url(../assets/images/deal-zabo.png);
+    background-size: cover;
+
+    grid-area: frame-3;
+}
+
+#flower-frame-3 h3 {
+    font-size: 2.5rem;
+}
+
+#flower-frame-3 a {
+    font-size: 1.75rem;
+}
 /* deals section end */
 
 
