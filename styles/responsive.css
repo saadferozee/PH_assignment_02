@@ -201,16 +201,219 @@
         gap: 0.8rem;
         font-size: 1rem;
     }
+
     /* footer end */
 }
 
 
 
-/* mobile */
+/* mobile (tested in 560px)*/
 
 @media screen and (min-width:481px) and (max-width:640px) {
     /* my code here */
-    
+
+    /* navbar responsive */
+    .nav-image {
+        width: 6.5rem;
+    }
+
+    .menu-hidden {
+        display: none;
+    }
+
+    .menu-tags {
+        font-size: 1.2rem;
+    }
+
+    /* navbar end */
+
+    /* banner responsive */
+    .banner {
+        flex-direction: column-reverse;
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .banner-content {
+        width: 90%;
+        margin: 2rem auto;
+    }
+
+    .banner-title {
+        width: 60%;
+        margin-bottom: 1rem;
+        font-size: 2.5rem;
+    }
+
+    .banner-subtitle {
+        font-size: 1.2rem;
+    }
+
+    .banner-image {
+        width: 100%;
+    }
+
+    /* banner end */
+
+    /* plants responsive */
+
+    .plants {
+        margin-top: 3.5rem;
+    }
+
+    .section-header-title {
+        font-size: 2rem;
+    }
+
+    .section-header-subtitle {
+        margin-top: 1.5rem;
+        font-size: 1rem;
+    }
+
+    .plant-cards {
+        margin-top: 2rem;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 0.85rem;
+        column-gap: 0.7rem;
+    }
+
+    .plant-card h3 {
+        margin-top: 1rem;
+        font-size: 1rem;
+    }
+
+    .plant-card h2 {
+        margin-top: 0.85rem;
+        font-size: 1.4rem;
+    }
+
+    .plant-card button {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        padding: 0.75rem 2rem;
+        font-size: 1rem;
+    }
+
+    /* plant end */
+
+    /* lover section responsive */
+
+    .lover-container {
+        margin-top: 4.5rem;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .badge {
+        display: none;
+    }
+
+    .lover-paragraph-box {
+        width: 100%;
+        align-content: normal;
+    }
+
+    .lover-paragraph-box h1 {
+        font-size: 2.25rem;
+    }
+
+    .lover-paragraph-box ul li {
+        font-size: 1.5rem;
+    }
+
+    /* lover section end */
+
+    /* deals responsive */
+    .deals {
+        margin-top: 3.5rem;
+    }
+
+    .flower-frames {
+        margin-top: 3rem;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 12rem);
+
+        grid-template-areas:
+            "frame-1"
+            "frame-2"
+            "frame-3"
+        ;
+    }
+
+    #flower-frame-3 {
+        padding: 5rem auto;
+        /* border: 2px solid green; */
+    }
+
+    #flower-frame-3 h3 {
+        font-size: 1.25rem;
+    }
+
+    #flower-frame-3 a {
+        font-size: 1rem;
+    }
+
+    /* deals end */
+
+    /* join now responsive */
+    .join {
+        padding: 15% 10%;
+    }
+
+    .join-now-title {
+        margin-top: 2rem;
+        margin-bottom: 1.5rem;
+
+        font-size: 2.5rem;
+    }
+
+    .join-now-form input[type="email"],
+    .join-now-form input[type="button"] {
+        padding: 0.75rem;
+        font-size: 1rem;
+    }
+
+    /* join now end */
+
+    /* footer responsive */
+    .footer {
+        flex-direction: column;
+    }
+
+    .footer-logo {
+        width: 7.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .footer-title,
+    .footer-menus,
+    .footer-links {
+        width: 100%;
+    }
+
+    .footer-subtitle {
+        font-size: 1.5rem;
+    }
+
+    .footer-menus {
+        margin-top: 1rem;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .footer-menu {
+        margin-top: 0.5rem;
+        font-size: 1rem;
+    }
+
+    .footer-links {
+        margin-top: 1.5rem;
+        justify-content: flex-start;
+        gap: 0.8rem;
+        font-size: 1.5rem;
+    }
+
+    /* footer end */
 }
 
 
