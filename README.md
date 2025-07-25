@@ -1,10 +1,10 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+## 🌟 ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+ 
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Completed by Saad Ferozee)
+
+---
 
 ### 📅 Deadline For 60 marks: 25th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 50 marks: 26th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks:\*\* Any time after 26th July.
 
 ---
 
@@ -12,60 +12,60 @@
 
 ### 1. Navbar (Completed without Responsiveness)
 
-- **Logo/Website name** on the left
-- **Menu items** on the right with **cart icon**
+- **Logo/Website name** on the left __[ ✅ added]__
+- **Menu items** on the right with **cart icon** __[ ✅ added]__
 - **Mobile Responsiveness:**
-  - Logo/website name on the left
-  - Cart icon with name on the right as Figma
-  - Other navbar elements will be hidden for cleaner mobile experience
+  - Logo/website name on the left __[ ✅ added]__
+  - Cart icon with name on the right as Figma __[ ✅ added]__
+  - Other navbar elements will be hidden for cleaner mobile experience __[ ✅ added]__
 
 ---
 
 ### 2. Banner (Completed without Responsiveness)
 
-- **Image** on the right
-- **Title and paragraph** on the left
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+- **Image** on the right __[ ✅ added]__
+- **Title and paragraph** on the left __[ ✅ added]__
+- **Mobile Responsiveness:** 
+  - Image moves to the top __[ ✅ added]__
+  - Content after image __[ ✅ added]__
+  - Content left aligned as Figma __[ ✅ added]__
 
 ---
 
 ### 3. Plants Section (Completed without Responsiveness)
 
-- centered **Title and subtitle** as Figma
-- **8 cards with 4 Column View** with image, name, price, and Add to cart button
+- centered **Title and subtitle** as Figma __[ ✅ added]__
+- **8 cards with 4 Column View** with image, name, price, and Add to cart button __[ ✅ added]__
 - **Mobile Responsiveness:**
-  - Display Cards in 2 Column
+  - Display Cards in 2 Column __[ ✅ added]__
 
 ---
 
 ### 4. Plants Lover Section (Completed without Responsiveness)
 
-- **Image** on the left
-- **Title and unordered list** on the right as Figma
+- **Image** on the left __[ ✅ added]__
+- **Title and unordered list** on the right as Figma __[ ✅ added]__
 - **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+  - Image moves to the top __[ ✅ added]__
+  - Content after image __[ ✅ added]__
+  - Content left aligned as Figma __[ ✅ added]__
 
 ---
 
 ### 5. Join Section (Completed without Responsiveness)
 
-- centered **Join the colorful Bunch** message
-- **Background image** in the full section like Figma
-- **Input box with placeholder** and **subscribe button** like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
+- centered **Join the colorful Bunch** message __[ ✅ added]__
+- **Background image** in the full section like Figma __[ ✅ added]__
+- **Input box with placeholder** and **subscribe button** like Figma __[ ✅ added]__
+- **Mobile Responsiveness:** Responsive design like Figma __[ ✅ added]__
 
 ---
 
 ### 6. Footer Section (Completed without Responsiveness)
 
-- **Website logo** on the left
-- **Home, features link items** just like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
+- **Website logo** on the left __[ ✅ added]__
+- **Home, features link items** just like Figma __[ ✅ added]__
+- **Mobile Responsiveness:** Responsive design like Figma __[ ✅ added]__
 
 ---
 
@@ -73,22 +73,21 @@
 
 ### Latest Deal Section  (Completed without Responsiveness)
 
-- **Title and subtitles**
-- **Card layout** like Figma
-- **Mobile Responsiveness:** Show a card on display like Figma
+- **Title and subtitles** __[ ✅ added]__
+- **Card layout** like Figma __[ ✅ added]__
+- **Mobile Responsiveness:** Show a card on display like Figma __[ ✅ added]__
 
 ---
 
 ### Trusted Plant Lover Badge  (Completed without Responsiveness)
 
-- Position a Trusted badge at the **Plant Lover** Image as Figma
-- - **Mobile Responsiveness:** Hide the Trusted badge in Mobile Device
+- Position a Trusted badge at the **Plant Lover** Image as Figma __[ ✅ added]__
+- **Mobile Responsiveness:** 
+  - Hide the Trusted badge in Mobile Device __[ ✅ added]__
 
 ---
 
 ## 🕛 Optional Part ( 0 Marks)
-
-`⚠️ You wont get any support for Optional part. Search Google and try it yourself`
 
 - Create an Animation for Trusted Plant Lover Badge
 
@@ -106,16 +105,16 @@
 
 ## 📌 Rules
 
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
+- ✅ Minimum **5 meaningful commits** required. __[ ✅ followed]__
+- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only. __[ ✅ followed]__
 
 ---
 
 ## 🔗 What to Submit
 
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
+- 📂 **GitHub Repository:** &nbsp; __[ ✅ Submitted]__
+- 🌐 **Live Link:** &nbsp; __[ ✅ Submitted]__
 
 ---
 
-# Let's Code and Achieve your Dream 🎯
+# Let's Code and Achieve My Dream 🎯
