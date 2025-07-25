@@ -15,6 +15,7 @@ img {
     --color-highlight: #e95a08;
     --font-default: #00000050;
     --bg: #67abea20;
+    --bg-f: #67abea30;
 }
 
 
@@ -73,6 +74,11 @@ img {
 
 .flex {
     display: flex;
+}
+
+.flex-y {
+    display: flex;
+    flex-direction: column;
 }
 
 .grid {
@@ -138,7 +144,7 @@ body {
 }
 
 .nav-image {
-    width: 135px;
+    width: 8.4375rem;
 }
 
 .menu-tags {
@@ -330,6 +336,7 @@ body {
     padding: 12.5rem 20rem;
 
     background-image: url(../assets/images/news-letter-bg.png);
+    background-size: cover;
 }
 
 .join-now-title {
@@ -364,5 +371,54 @@ body {
 
 
 /* footer section */
+.footer {
+    padding: 3.125rem 0;
 
+}
+
+.footer-title,
+.footer-menus,
+.footer-links {
+    width: 30%;
+}
+
+.footer-logo {
+    width: 8.4375rem;
+    margin-bottom: 2rem;
+}
+
+.footer-subtitle {
+    font-size: 1.5rem;
+    color: var(--font-default);
+}
+
+.footer-menus {
+    gap: 6.875rem;
+}
+
+.footer-menu {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #00000070;
+}
+
+.footer-links{
+    font-size: 2rem;
+}
+
+.linkedin-logo {
+    color: #0072b1;
+}
+
+.twitter-logo {
+    color: #000000;
+}
+
+.facebook-logo {
+    color: #1877f2;
+}
+
+.youtube-logo {
+    color: #ff0000;
+}
 /* footer section end */

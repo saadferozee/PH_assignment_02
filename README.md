@@ -61,7 +61,7 @@
 
 ---
 
-### 6. Footer Section
+### 6. Footer Section (Completed without Responsiveness)
 
 - **Website logo** on the left
 - **Home, features link items** just like Figma
@@ -71,7 +71,7 @@
 
 ## 🧪 Challenges Part ( 10 Mark)
 
-### Latest Deal Section
+### Latest Deal Section  (Completed without Responsiveness)
 
 - **Title and subtitles**
 - **Card layout** like Figma
@@ -79,7 +79,7 @@
 
 ---
 
-### Trusted Plant Lover Badge
+### Trusted Plant Lover Badge  (Completed without Responsiveness)
 
 - Position a Trusted badge at the **Plant Lover** Image as Figma
 - - **Mobile Responsiveness:** Hide the Trusted badge in Mobile Device
